@@ -1,6 +1,6 @@
 <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=👋+Hey%2C+I%E2%80%99m+KipKat13!" /> <br />
 
-<p>Designs, coding, and writes about IT Security, ethics, research, and dev. This site is where I share my experiences.</p>
+<p>Designs, codes, and builds webapps and other cool projects! I am currently learing Java, Flask and how to make Arch my favorite OS. This page is where I share my experiences.</p>
 	<br />
 	<a href="https://www.linux.org/"><img src="https://img.shields.io/badge/OS-Linux-yellow?style=flat&logo=linux" /></a>
 	<a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Distro-Arch-blue?style=flat&logo=archlinux" /></a>
@@ -8,6 +8,7 @@
 	<a href="https://neovim.io/"><img src="https://img.shields.io/badge/Text%20Editor-NVIM-green?style=flat&logo=neovim" /></a>
 	<a href="https://www.jetbrains.com/pycharm//"><img src="https://img.shields.io/badge/IDE-PyCharm-purple?style=flat&logo=pycharm" /></a>
 	<a href="https://www.zsh.org/"><img src="https://img.shields.io/badge/Shell-ZSH-orange?style=flat&logo=zsh" /></a>
+  <br />
   <br />
 
 - 👀 I’m interested in computers, programming and other tech stuff  
