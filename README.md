@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @KipKat13
+<img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=👋+Hey%2C+I%E2%80%99m+KipKat13!" /> <br />
+
 - 👀 I’m interested in computers, programming and other tech stuff  
 - 🌱 I’m currently learning how to use and operate servers
 - 💞️ I’m looking to collaborate on whatever looks like fun!
